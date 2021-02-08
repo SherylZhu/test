@@ -1,0 +1,39 @@
+# Meeting2 Minutes 2021 01 25
+
+Present: Dr. David Henty, Weizhe Zhu
+
+## Actions
+ 
+### New  
+
+ ** Run a parallel task on Cirrus: ** Task1-2021-01-25
+
+ ** Run simple examples on Pytorch and TensorFlow: ** Task2-2021-01-25
+
+ ** Decide to read which past dissertation: ** Task3-2021-01-25
+ 
+
+### On-going
+
+ ** Learn Pytorch and Tensorflow: ** Task4-2021-01-14
+
+ ** Decide to read which past dissertation: ** Task3-2021-01-25
+
+ ** Run simple examples on Pytorch and TensorFlow: ** Task2-2021-01-25
+
+
+### Finished
+
+ ** Get the access to the example repository and Cirrus: ** Task2-2021-01-14
+
+ ** Decide what specific problem we will solve by deep learning: ** Task3-2021-01-14
+
+ ** Run a parallel task on Cirrus: ** Task1-2021-01-25
+
+
+
+## Discussion
+
+We found some useful dataset and some tutorials for Pytorch and Tensorflow. I think image classifier is a good idea. And I will learn to run some simple examples on Pytorch and Tensorflow. Also, I am going to run a parallel task on Cirrus. Finally, we plan to choose a past dissertation related to my project for me to read next week.
+
+## DONM: Thursday 25th Jan, 11:00, Teams online
